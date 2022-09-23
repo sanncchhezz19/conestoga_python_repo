@@ -1,2 +1,1 @@
-Hello World! My Name is Alexis Sanchez
-this is a test to do a pull from my computer
+helloworld.py is a simple script that will print 'Hello, Git world!' when it is ran.
